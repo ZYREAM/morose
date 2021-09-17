@@ -1,0 +1,12 @@
+ ## BOT SESSTINGS ##
+ messagesfetchlimts: '50'
+ botlog: '781857032231583764'
+
+
+ ## EMOJIS ##
+ attention: '<a:853581438519476264:872782938620690453>'
+ permission: '<:perms:872782951107153931>'
+ yes: '<:success:869983752145735681>'
+ arrowhere: '<:arrowhere:872782938071261194>'
+ no: '<:fail:869983752556806144>'
+ load: '<a:wait:869984129888964721>'

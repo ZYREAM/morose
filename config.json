@@ -1,0 +1,30 @@
+
+
+{
+  "TOKEN": "ODY2Njg4Mzg4NzIzMTE0MDE1.YPWMdg.Vy8Ve1-HGYGMOvbUnNoxGyJHli4",
+  "PREFIX": "+",
+  "approveemoji": "✅",
+  "denyemoji": "🚫",
+  "erroremoji": "️❗",
+    "everyoneMention": true,
+    "hostedBy": true,
+    
+    "Bot_Info": {
+        "token": "ODY2Njg4Mzg4NzIzMTE0MDE1.YPWMdg.Vy8Ve1-HGYGMOvbUnNoxGyJHli4",
+        "prefix": "+"
+    },
+
+   "Embed_Defaults": {
+       "EmbedColour": "#9b9b9b"
+   },
+
+   "Giveaway_Options": {
+    "giveawayManagerID": "",
+    "giveawayRoleID": "",
+    "giveawayMention": true,
+    "showMention": true,
+    "hostedBy": true
+}
+
+
+}   
